@@ -60,6 +60,11 @@ This API is a specialized version of the package [`@stdlib/blas-ext/base/ndarray
 ## Usage
 
 ```javascript
+import sxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-sxpy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-ndarray-sxpy/tags). For example,
+
+```javascript
 import sxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-sxpy@v0.0.0-esm/index.mjs';
 ```
 
@@ -112,7 +117,7 @@ The function has the following parameters:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import sxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-sxpy@v0.0.0-esm/index.mjs';
+import sxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-sxpy@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
