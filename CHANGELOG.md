@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ab50f59`](https://github.com/stdlib-js/stdlib/commit/ab50f59f75c9074346747fe1d71fcf55bda1db2f) - **docs:** update Markdown stdlib package URLs [(#13038)](https://github.com/stdlib-js/stdlib/pull/13038) _(by stdlib-bot)_
 -   [`19b7973`](https://github.com/stdlib-js/stdlib/commit/19b79733604d2bee711f83c3a838e6df0c79216a) - **feat:** add `blas/ext/base/ndarray/sxpy` [(#13034)](https://github.com/stdlib-js/stdlib/pull/13034) _(by Karan Anand)_
 
 </details>
